@@ -5,7 +5,7 @@
 <h1>My first PHP page</h1>
 
 <?php
-echo "NEWWWWWWWWWWWWWW PHP!";
+echo "For new podddddd!";
 ?>
 
 </body>
